@@ -1,0 +1,16 @@
+air:
+  username: Universal API/uAPI4578806539-634ce9aa
+  password: j/7H4D=f?6
+  endpoint: https://americas.universal-api.pp.travelport.com/B2BGateway/connect/uAPI/AirService
+  branch: P7140549
+  core: 1G 
+
+  
+logging:
+  level:
+    com.travelport.refimpl: info
+    com.usoit.booking: info
+    
+server:
+  port: 9000
+  
